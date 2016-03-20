@@ -1,2 +1,2 @@
 # til
-Thing I've Learnt
+Things I've Learnt
